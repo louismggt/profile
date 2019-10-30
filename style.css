@@ -141,6 +141,16 @@ h1, h2 {
   border-radius: 5px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
+.text {
+  width: 100%;
+  margin: auto;
+}
+
+.img-flex {
+  width: 100%;
+  margin: auto;
+  display: flex;
+}
 }
 
 .list-inline > li {
